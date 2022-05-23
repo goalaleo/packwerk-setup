@@ -6,6 +6,7 @@
 # - "**/*.{rb,rake,erb}"
 include:
 - "app/core/**/*.{rb,rake,erb}"
+- "app/channels/**/*.{rb,rake,erb}"
 
 # List of patterns for folder paths to exclude
 # exclude:

@@ -38,6 +38,8 @@ group :development do
   gem 'web-console', '>= 3.3.0'
   gem 'listen', '~> 3.2'
   gem 'packwerk'
+  gem 'spring', '= 3.0.0'
+  gem 'sorbet-runtime', '= 0.5.9992'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
