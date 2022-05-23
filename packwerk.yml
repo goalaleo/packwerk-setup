@@ -4,6 +4,8 @@
 # List of patterns for folder paths to include
 # include:
 # - "**/*.{rb,rake,erb}"
+include:
+- "app/core/**/*.{rb,rake,erb}"
 
 # List of patterns for folder paths to exclude
 # exclude:
